@@ -17,7 +17,7 @@ vehicle types, and personnel ratings.
 Power BI · DAX · Power Query · Maps Visual · Data Modelling
 
 ## Dashboard Preview
-![Dashboard](./Zomato_Analyst-Hive.png)
+![Dashboard](./Zomato.png)
 
 ## Features
 - Interactive slicers for Year, Month, Quarter and City
